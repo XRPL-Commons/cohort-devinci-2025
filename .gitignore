@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Optional: coverage reports (if using testing tools like Jest)
+coverage/
+
+# Optional: package lock file if using yarn (remove if using npm)
+yarn.lock
